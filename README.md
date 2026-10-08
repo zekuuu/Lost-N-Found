@@ -46,7 +46,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/xKurty06/Lost-N-Found.git
+git clone https://github.com/zekuuu/Lost-N-Found.git
 cd Lost-N-Found
 ```
 
