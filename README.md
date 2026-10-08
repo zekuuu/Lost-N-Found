@@ -90,7 +90,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Developed by students of **Cavite State University – BS Computer Science**:
 
-- **Zean Kurt G. Balboa** – [Github](https://github.com/xKurty06)
+- **Zean Kurt G. Balboa** – [Github](https://github.com/zekuuu)
 - **Mark Andrei Dela Paz** – [GitHub](https://github.com/)
 - **Ray Ardee Gaano** – [GitHub](https://github.com/)
 - **Raphael Reyes** – [GitHub](https://github.com/)
